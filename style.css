@@ -3,7 +3,7 @@ html {
 }
 body {
 	background: #bcdee7 url("assets/img/bg.webp") no-repeat center center fixed;
-    background-size: 120% auto;
+    background-size: cover;
     position: fixed;
 	padding: 0px;
 	margin: 0px;
